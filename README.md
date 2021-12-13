@@ -4,6 +4,7 @@
 | URL | Info |
 | --- | --- |
 | https://musana.net/2021/12/13/log4shell-Quick-Guide/ | log4shell-Quick-Guide |
+| https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2021/2021-549032-10F2.pdf?__blob=publicationFile&v=6 | BSI Warning |
 | https://www.lunasec.io/docs/blog/log4j-zero-day/ | Log4Shell: RCE 0-day exploit found in log4j 2, a popular Java logging package |
 | https://www.huntress.com/blog/rapid-response-critical-rce-vulnerability-is-affecting-java | Critical RCE Vulnerability: log4j - CVE-2021-44228 |
 | https://zero.bs/sb-2121-log4j-rce-cve-2021-44228.html | SB 21.21 ] Log4J - RCE (CVE-2021-44228) |
@@ -12,6 +13,9 @@
 | https://github.com/apache/logging-log4j2/pull/607 | LOG4J2-3198: Log4j2 no longer formats lookups in messages by default #607 |
 | https://issues.apache.org/jira/browse/LOG4J2-3198 | LOG4J2-3198 |
 | https://github.com/YfryTchsGD/Log4jAttackSurface | Log4jAttackSurface |
+| https://github.com/apache/logging-log4j2/pull/608#issuecomment-991723301 | Affected log4j Version |
+| https://logging.apache.org/log4j/2.x/security.html | Apache Log4j Security Vulnerabilities |
+| https://twitter.com/marcioalm/status/1470361495405875200?s=09 | JNDI-Exploit-Kit targets ANY version of Java |
 
 ### Malware Incidents
 | URL | Info |
@@ -30,7 +34,9 @@
 | URL | Info |
 | --- | --- |
 | https://gist.github.com/superducktoes/9b742f7b44c71b4a0d19790228ce85d8 | Callback Domains for log4j |
-| https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv | Azure-Sentinel
+| https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv | Azure-Sentinel |
+| https://github.com/curated-intel/Log4Shell-IOCs | Log4Shell-IOCs |
+| https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | Log4Shell-Hashses |
 | https://samples.vx-underground.org/samples/Families/Log4J%20Malware/ | Driveby Malware Samples (Password: infected) |
 
 ### Public Honeypots
@@ -83,3 +89,5 @@ test+(${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}//
 | https://github.com/fullhunt/log4j-scan | log4j-scan |
 | https://github.com/r0mdau/ansible-role-log4shell-detector | ansible-role-log4shell-detector |
 | https://github.com/Cybereason/Logout4Shell | Logout4Shell |
+| https://github.com/dtact/divd-2021-00038--log4j-scanner | divd-2021-00038--log4j-scanner |
+| https://github.com/pimps/JNDI-Exploit-Kit | JNDI-Exploit-Kit 
