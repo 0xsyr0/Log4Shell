@@ -44,6 +44,7 @@
 | https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv | Azure-Sentinel |
 | https://github.com/curated-intel/Log4Shell-IOCs | Log4Shell-IOCs |
 | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | Log4Shell-Hashses |
+| https://www.virustotal.com/gui/collection/04c6ab336e767ae9caee992902c4f3039ccee24df7458cd7cbaf3182644b3044/iocs | VirusTotal IOCs |
 | https://samples.vx-underground.org/samples/Families/Log4J%20Malware/ | Driveby Malware Samples (Password: infected) |
 
 ### Public Honeypots
