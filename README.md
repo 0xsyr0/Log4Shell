@@ -24,7 +24,7 @@
 | https://logging.apache.org/log4j/2.x/changes-report.html#a2.16.0 | Disable JNDI by default. Require log4j2.enableJndi to be set to true to allow JNDI. Fixes LOG4J2-3208 / Completely remove support for Message Lookups. Fixes LOG4J2-3211 |
 
 <p align="center">
-  <img width="600" height="450" src="https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary/blob/main/files/log4j_attack.png">
+  <img width="750" height="450" src="https://github.com/0xsyr0/CVE-2021-44228-log4j-log4shell-Security-Research-Summary/blob/main/files/log4j_attack.png">
 </p>
 
 Source: https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
