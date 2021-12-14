@@ -18,6 +18,11 @@
 | https://logging.apache.org/log4j/2.x/security.html | Apache Log4j Security Vulnerabilities |
 | https://twitter.com/marcioalm/status/1470361495405875200?s=09 | JNDI-Exploit-Kit targets ANY version of Java |
 
+### Mitigations / Fixes
+| URL | Info |
+| --- | --- |
+| https://logging.apache.org/log4j/2.x/changes-report.html#a2.16.0 | Disable JNDI by default. Require log4j2.enableJndi to be set to true to allow JNDI. Fixes LOG4J2-3208 / Completely remove support for Message Lookups. Fixes LOG4J2-3211 |
+
 ### Malware Incidents
 | URL | Info |
 | --- | --- |
