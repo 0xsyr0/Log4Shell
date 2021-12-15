@@ -52,6 +52,7 @@ Source: https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-libr
 | --- | --- |
 | https://gist.github.com/superducktoes/9b742f7b44c71b4a0d19790228ce85d8 | Callback Domains for log4j |
 | https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv | Azure-Sentinel |
+| https://www.dan.me.uk/torlist/?exit | Tor Exit Nodes |
 | https://github.com/curated-intel/Log4Shell-IOCs | Log4Shell-IOCs |
 | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | Log4Shell-Hashses |
 | https://www.virustotal.com/gui/collection/04c6ab336e767ae9caee992902c4f3039ccee24df7458cd7cbaf3182644b3044/iocs | VirusTotal IOCs |
