@@ -121,6 +121,7 @@ Fire in the hole aka start browsing the web!
 | --- | --- |
 | https://canarytokens.org/generate# | Canary Tokens |
 | https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b | # log4j RCE Exploitation Detection |
+| https://github.com/logpresso/CVE-2021-44228-Scanner | Logpresso CVE-2021-44228 Scanner |
 | https://github.com/Neo23x0/log4shell-detector | log4shell-detector |
 | https://github.com/fullhunt/log4j-scan | log4j-scan |
 | https://github.com/r0mdau/ansible-role-log4shell-detector | ansible-role-log4shell-detector |
