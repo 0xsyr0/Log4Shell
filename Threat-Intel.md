@@ -9,6 +9,7 @@
 | https://www.lunasec.io/docs/blog/log4j-zero-day/ | Lunasec log4shell roundup |
 | https://www.huntress.com/blog/rapid-response-critical-rce-vulnerability-is-affecting-java | Huntress log4shell roundup |
 | https://zero.bs/sb-2121-log4j-rce-cve-2021-44228.html | zeroBS log4shell roundup |
+| https://blog.cloudflare.com/inside-the-log4j2-vulnerability-cve-2021-44228/ | Cloudflare - Inside the Log4j2 vulnerability |
 | https://www.bleepingcomputer.com/news/security/new-zero-day-exploit-for-log4j-java-library-is-an-enterprise-nightmare/ | Bleepingcomputer - Vulnerable Log4j library |
 | https://www.bleepingcomputer.com/news/security/researchers-release-vaccine-for-critical-log4shell-vulnerability/ | Bleepingcomputer - Researchers release 'vaccine' for critical Log4Shell vulnerability |
 | https://github.com/YfryTchsGD/Log4jAttackSurface | YfryTchsGD - Attack Surface |
