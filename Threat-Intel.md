@@ -16,3 +16,4 @@
 | https://logging.apache.org/log4j/2.x/security.html | apache.org - Log4j Security Vulnerabilities |
 | https://twitter.com/marcioalm/status/1470361495405875200?s=09 | Twitter - JNDI-Exploit-Kit targets ANY version of Java! |
 | https://twitter.com/an0n_r0/status/1469643986403008515 | Twitter - BlackHat USA 2016 Talk JNDI/LDAP Manipulation and Remote Code Execution |
+| https://www.praetorian.com/blog/log4j-2-15-0-stills-allows-for-exfiltration-of-sensitive-data/ | Log4j 2.15.0 stills allows for exfiltration of sensitive data |
