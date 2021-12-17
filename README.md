@@ -1,5 +1,9 @@
 ## CVE-2021-44228: log4j / log4shell Security Research Summary
 
+<p align="center">
+  <img width="300" height="300" src="https://github.com/0xsyr0/log4shell/blob/main/files/log4shell_logo.png">
+</p>
+
 This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 aka log4shell.
 
 - [Threat Intel](https://github.com/0xsyr0/log4shell/blob/main/Threat-Intel.md)
