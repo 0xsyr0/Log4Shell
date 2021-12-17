@@ -16,3 +16,6 @@ This repository contains all gathered resources we used during our Incident Repo
 - [Vulnerability Scanning](https://github.com/0xsyr0/log4shell/blob/main/Vulnerability-Scanning.md)
 - [Exploitation](https://github.com/0xsyr0/log4shell/blob/main/Exploitation.md)
 - [Trainings](https://github.com/0xsyr0/log4shell/blob/main/Trainings.md)
+
+Thanks to Malware Unicorn for the logo!
+Source: https://malwareunicorn.org/log4shell_logo.png
