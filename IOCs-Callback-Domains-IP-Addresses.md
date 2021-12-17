@@ -10,5 +10,7 @@
 | https://regex101.com/r/KqGG3W/3 | log4shell-rex POC |
 | https://www.virustotal.com/gui/collection/04c6ab336e767ae9caee992902c4f3039ccee24df7458cd7cbaf3182644b3044/iocs | VirusTotal IOCs |
 | https://www.greynoise.io/viz/query/?gnql=tags%3A%22Apache%20Log4j%20RCE%20Attempt%22 | Greynoise.io Attack Visualizer |
+| https://crowdsec.net/log4j-tracker/ |CrowdSec log4j Tracker |
+| https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 | CrowdSec log4j Tracker gist |
 | https://samples.vx-underground.org/samples/Families/Log4J%20Malware/ | Driveby Malware Samples (Password: infected) |
 | https://twitter.com/zom3y3/status/1469508032887414784 | Twitter - Muhstik Botnet |
