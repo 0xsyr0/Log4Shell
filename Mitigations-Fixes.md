@@ -10,13 +10,13 @@
 | https://gist.github.com/jaygooby/3502143639e09bb694e9c0f3c6203949 | fail2ban filter rule for the log4j CVE-2021-44228 exploit |
 
 <p align="center">
-  <img width="800" height="450" src="https://github.com/0xsyr0/log4shell/blob/main/files/log4j_attack.png">
+  <img width="800" height="450" src="https://github.com/0xsyr0/Log4Shell/blob/main/files/log4j_attack.png">
 </p>
 
 Source: https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
 
 <p align="center">
-  <img width="800" height="450" src="https://github.com/0xsyr0/log4shell/blob/main/files/FG-W-NkXIAQlC6b.jpg">
+  <img width="800" height="450" src="https://github.com/0xsyr0/Log4Shell/blob/main/files/FG-W-NkXIAQlC6b.jpg">
 </p>
 
 Source: https://pbs.twimg.com/media/FG-W-NkXIAQlC6b?format=jpg&name=large
