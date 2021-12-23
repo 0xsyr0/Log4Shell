@@ -1,6 +1,7 @@
 ## Mitigations / Fixes
 | URL | Info |
 | --- | --- |
+| https://www.cisa.gov/uscert/ncas/current-activity/2021/12/22/mitigating-log4shell-and-other-log4j-related-vulnerabilities | CISA - Mitigating Log4Shell and Other Log4j-Related Vulnerabilities |
 | https://github.com/apache/logging-log4j2/pull/607 | GitHub - LOG4J2-3198: Log4j2 no longer formats lookups in messages by default #607 |
 | https://github.com/apache/logging-log4j2/pull/608#issuecomment-991723301 | log4j2 pull request  |
 | https://issues.apache.org/jira/browse/LOG4J2-3198 | apache.org - LOG4J2-3198 |
