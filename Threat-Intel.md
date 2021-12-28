@@ -11,7 +11,7 @@
 | https://zero.bs/sb-2121-log4j-rce-cve-2021-44228.html | zeroBS log4shell roundup |
 | https://blog.cloudflare.com/inside-the-log4j2-vulnerability-cve-2021-44228/ | Cloudflare - Inside the Log4j2 vulnerability |
 | https://www.bleepingcomputer.com/news/security/new-zero-day-exploit-for-log4j-java-library-is-an-enterprise-nightmare/ | BleepingComputer - Vulnerable Log4j library |
-| https://www.bleepingcomputer.com/news/security/researchers-release-vaccine-for-critical-log4shell-vulnerability/ | Bleepingcomputer - Researchers release 'vaccine' for critical Log4Shell vulnerability |
+| https://www.bleepingcomputer.com/news/security/researchers-release-vaccine-for-critical-log4shell-vulnerability/ | BleepingComputer - Researchers release 'vaccine' for critical Log4Shell vulnerability |
 | https://github.com/YfryTchsGD/Log4jAttackSurface | YfryTchsGD - Attack Surface |
 | https://github.com/NCSC-NL/log4shell/tree/main/software | Netherland CERT - Affected log4j versions |
 | https://logging.apache.org/log4j/2.x/security.html | apache.org - Log4j Security Vulnerabilities |
