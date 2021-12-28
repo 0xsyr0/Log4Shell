@@ -19,3 +19,4 @@
 | https://twitter.com/an0n_r0/status/1469643986403008515 | Twitter - BlackHat USA 2016 Talk JNDI/LDAP Manipulation and Remote Code Execution |
 | https://www.praetorian.com/blog/log4j-2-15-0-stills-allows-for-exfiltration-of-sensitive-data/ | Log4j 2.15.0 stills allows for exfiltration of sensitive data |
 | https://twitter.com/kennwhite/status/1471805837878386690?s=09 | Full RCE PoC for 2.15 just dropped |
+| https://twitter.com/YNizry/status/1475764153373573120?s=09 | Possible RCE in 2.17 |
