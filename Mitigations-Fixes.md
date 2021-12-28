@@ -21,3 +21,14 @@ Source: https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-libr
 </p>
 
 Source: https://pbs.twimg.com/media/FG-W-NkXIAQlC6b?format=jpg&name=large
+
+#### Patching solr.in.sh
+Location:
+```c
+/etc/default/solr.in.sh
+```
+Add the following line:
+```c
+SOLR_OPTS="$SOLR_OPTS -Dlog4j2.formatMsgNoLookups=true"
+```
+Restart the Service - done.
