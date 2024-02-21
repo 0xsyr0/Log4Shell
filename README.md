@@ -6,16 +6,16 @@
 
 This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell.
 
-- [Threat Intel](Threat-Intel.md)
-- [Mitigations / Fixes](Mitigations-Fixes.md)
-- [Malware Reports](Malware-Reports.md)
-- [Advisory](Advisory.md)
-- [IOCs / Callback Domains / IP Addresses](IOCs-Callback-Domains-IP-Addresses.md)
-- [Honeypots](Honeypots.md)
-- [Payloads / Obfuscation / WAF Bypass](Payloads-Obfuscation-WAF-Bypass.md)
-- [Vulnerability Scanning](Vulnerability-Scanning.md)
-- [Exploitation](Exploitation.md)
-- [Trainings](Trainings.md)
+- [Threat Intel](threat-intel.md)
+- [Mitigations / Fixes](mitigations-fixes.md)
+- [Malware Reports](malware-reports.md)
+- [Advisory](advisory.md)
+- [IOCs / Callback Domains / IP Addresses](iocs-callback-domains-ip-addresses.md)
+- [Honeypots](honeypots.md)
+- [Payloads / Obfuscation / WAF Bypass](payloads-obfuscation-waf-bypass.md)
+- [Vulnerability Scanning](vulnerability-scanning.md)
+- [Exploitation](exploitation.md)
+- [Trainings](trainings.md)
 
 Thanks to Malware Unicorn for the logo!
 
