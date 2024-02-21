@@ -1,7 +1,7 @@
 ## CVE-2021-44228: Log4j / Log4Shell Security Research Summary
 
 <p align="center">
-  <img width="300" height="300" src="files/log4shell_logo.png">
+  <img width="300" height="300" src="images/log4shell_logo.png">
 </p>
 
 This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell.
