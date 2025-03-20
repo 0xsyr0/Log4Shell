@@ -1,4 +1,5 @@
 ## Advisory
+
 | URL | Info |
 | --- | --- |
 | https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592 | BlueTeam CheatSheet *Log4Shell* |
