@@ -6,16 +6,16 @@
 
 This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell.
 
-- [Threat Intel](threat-intel.md)
-- [Mitigations / Fixes](mitigations-fixes.md)
-- [Malware Reports](malware-reports.md)
-- [Advisory](advisory.md)
-- [IOCs / Callback Domains / IP Addresses](iocs-callback-domains-ip-addresses.md)
-- [Honeypots](honeypots.md)
-- [Payloads / Obfuscation / WAF Bypass](payloads-obfuscation-waf-bypass.md)
-- [Vulnerability Scanning](vulnerability-scanning.md)
-- [Exploitation](exploitation.md)
-- [Trainings](trainings.md)
+- [Threat Intel](https://github.com/0xsyr0/Log4Shell/blob/main/threat-intel.md)
+- [Mitigations / Fixes](https://github.com/0xsyr0/Log4Shell/blob/main/mitigations-fixes.md)
+- [Malware Reports](https://github.com/0xsyr0/Log4Shell/blob/main/malware-reports.md)
+- [Advisory](https://github.com/0xsyr0/Log4Shell/blob/main/advisory.md)
+- [IOCs / Callback Domains / IP Addresses](https://github.com/0xsyr0/Log4Shell/blob/main/iocs-callback-domains-ip-addresses.md)
+- [Honeypots](https://github.com/0xsyr0/Log4Shell/blob/main/honeypots.md)
+- [Payloads / Obfuscation / WAF Bypass](https://github.com/0xsyr0/Log4Shell/blob/main/payloads-obfuscation-waf-bypass.md)
+- [Vulnerability Scanning](https://github.com/0xsyr0/Log4Shell/blob/main/vulnerability-scanning.md)
+- [Exploitation](https://github.com/0xsyr0/Log4Shell/blob/main/exploitation.md)
+- [Trainings](https://github.com/0xsyr0/Log4Shell/blob/main/trainings.md)
 
 Thanks to Malware Unicorn for the logo!
 
