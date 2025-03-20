@@ -1,4 +1,5 @@
 ## IOCs / Callback URLs and IP addresses
+
 | URL | Info |
 | --- | --- |
 | https://gist.github.com/superducktoes/9b742f7b44c71b4a0d19790228ce85d8 | Callback Domains for log4j |
