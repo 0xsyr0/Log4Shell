@@ -6,8 +6,8 @@
 
 This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell.
 
-- [Threat Intel](https://github.com/0xsyr0/Log4Shell/blob/main/threat-intel.md)
-- [Mitigations / Fixes](https://github.com/0xsyr0/Log4Shell/blob/main/mitigations-fixes.md)
+- [Threat Intel](https://github.com/0xsyr0/Log4Shell/blob/main/Threat-Intel.md)
+- [Mitigations / Fixes](https://github.com/0xsyr0/Log4Shell/blob/main/Mitigations-Fixes.md)
 - [Malware Reports](https://github.com/0xsyr0/Log4Shell/blob/main/malware-reports.md)
 - [Advisory](https://github.com/0xsyr0/Log4Shell/blob/main/advisory.md)
 - [IOCs / Callback Domains / IP Addresses](https://github.com/0xsyr0/Log4Shell/blob/main/iocs-callback-domains-ip-addresses.md)
