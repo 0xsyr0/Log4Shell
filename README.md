@@ -8,14 +8,14 @@ This repository contains all gathered resources we used during our Incident Repo
 
 - [Threat Intel](https://github.com/0xsyr0/Log4Shell/blob/main/Threat-Intel.md)
 - [Mitigations / Fixes](https://github.com/0xsyr0/Log4Shell/blob/main/Mitigations-Fixes.md)
-- [Malware Reports](https://github.com/0xsyr0/Log4Shell/blob/main/malware-reports.md)
-- [Advisory](https://github.com/0xsyr0/Log4Shell/blob/main/advisory.md)
-- [IOCs / Callback Domains / IP Addresses](https://github.com/0xsyr0/Log4Shell/blob/main/iocs-callback-domains-ip-addresses.md)
-- [Honeypots](https://github.com/0xsyr0/Log4Shell/blob/main/honeypots.md)
-- [Payloads / Obfuscation / WAF Bypass](https://github.com/0xsyr0/Log4Shell/blob/main/payloads-obfuscation-waf-bypass.md)
-- [Vulnerability Scanning](https://github.com/0xsyr0/Log4Shell/blob/main/vulnerability-scanning.md)
-- [Exploitation](https://github.com/0xsyr0/Log4Shell/blob/main/exploitation.md)
-- [Trainings](https://github.com/0xsyr0/Log4Shell/blob/main/trainings.md)
+- [Malware Reports](https://github.com/0xsyr0/Log4Shell/blob/main/Malware-Reports.md)
+- [Advisory](https://github.com/0xsyr0/Log4Shell/blob/main/Advisory.md)
+- [IOCs / Callback Domains / IP Addresses](https://github.com/0xsyr0/Log4Shell/blob/main/IOCs-Callback-Domains-IP-Addresses.md)
+- [Honeypots](https://github.com/0xsyr0/Log4Shell/blob/main/Honeypots.md)
+- [Payloads / Obfuscation / WAF Bypass](https://github.com/0xsyr0/Log4Shell/blob/main/Payloads-Obfuscation-WAF-Bypass.md)
+- [Vulnerability Scanning](https://github.com/0xsyr0/Log4Shell/blob/main/Vulnerability-Scanning.md)
+- [Exploitation](https://github.com/0xsyr0/Log4Shell/blob/main/Exploitation.md)
+- [Trainings](https://github.com/0xsyr0/Log4Shell/blob/main/Trainings.md)
 
 Thanks to Malware Unicorn for the logo!
 
