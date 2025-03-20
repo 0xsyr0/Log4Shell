@@ -1,4 +1,5 @@
 ## Mitigations / Fixes
+
 | URL | Info |
 | --- | --- |
 | https://www.cisa.gov/uscert/ncas/current-activity/2021/12/22/mitigating-log4shell-and-other-log4j-related-vulnerabilities | CISA - Mitigating Log4Shell and Other Log4j-Related Vulnerabilities |
